@@ -1,19 +1,8 @@
-# Sistema de Parqueadero
+Codigos de algoritmos
 
-Programa en C para calcular el costo de un parqueadero.
+Todos los archivos cpp que vez aca son programas en C o C++ los cuales incluyen elementos basicos como captura de datos, mostrar informacion y funciones
 
-## Uso
 
-Compila el programa:
-```bash
-gcc parqueadero.c -o parqueadero
-```
 
-Ejecuta:
-```bash
-./parqueadero
-```
-
-## Características
-- Cálculo por horas y minutos
-- Tarifa: $600/hora, $10/minuto
+## funciones 
+- C_Parqueadero: Pide al usuario las horas y minutos de un parqueadero y devuelve el valor a pagar. Programado en C
