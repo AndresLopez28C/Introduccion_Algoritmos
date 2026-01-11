@@ -17,7 +17,6 @@ int main(){
     scanf("%d",&tiempoh);
     printf("Escriba cuantos minutos a usado el parqueadero \n");
     scanf("%d",&tiempom);
-    printf("Debe pagar un total de "+ total);
     total = xyz(tiempoh, tiempom,total);
     printf("Debe pagar un total de %d\n ", total);
     

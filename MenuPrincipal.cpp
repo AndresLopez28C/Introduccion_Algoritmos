@@ -22,6 +22,13 @@ int main(){
 void Sinfunciones(){
 	int opcion=0;
 	system("cls");
-	printf("Escriba una opcion escoger un codigo \n");
-	
+	printf("Escriba una opcion escoger un codigo \n\n");
+	printf("1)calcular costo parqueadero  \n2)Par o Impar positivos o negativos \n3)");
+	scanf("%d", &opcion);
+	system("cls");
+	switch(opcion){
+		case 1:
+			system("\C_Parqueadero.exe");
+			break;
+	}
 }
