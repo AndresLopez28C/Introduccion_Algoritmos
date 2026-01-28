@@ -14,3 +14,5 @@ Todos los archivos cpp que vez aca son programas en C o C++ los cuales incluyen 
 * edades -> Se calcula cuales edades de 3 personas son contemporaneas 
 * kilometraje -> Calcula el precio total a pagar por un carro basado en cuantos kilometros recorrio
 * Promedio ->  Se piden 4 notas, se elimina la nota mas baja del estudiante y se calcula el promedio 
+* Numer3cifras -> se pide un numero de 3 cifras, despues se analiza y se deduce cual es el numero mas alto posible con el numero de centenas, decenas y unidades
+* ManejoArchivos -> EN PROGRESO: programa basico para crear, leer, modificar y borrar un archivo de texto

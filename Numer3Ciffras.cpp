@@ -36,10 +36,10 @@ void masalto(int a, int b, int c)
 	}
 	else if(c>a && c>b){
 		if(a>b){
-			cout<<"El mayor numero posible es"<<c<<a<<b;
+			cout<<"El mayor numero posible es "<<c<<a<<b;
 		}
 		else{
-			cout<<"El mayor numero posible es"<<c<<b<<a;
+			cout<<"El mayor numero posible es "<<c<<b<<a;
 		}
 	}
 	else
